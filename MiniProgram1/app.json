@@ -4,7 +4,7 @@
   ],
   "window": {
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "Weixin",
-    "navigationBarBackgroundColor": "#ffffff"
+    "navigationBarTitleText": "手动创建第一个小程序",
+    "navigationBarBackgroundColor": "#ABCD12"
   }
 }
