@@ -1,0 +1,17 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  color: #E64340;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+} 
+
+.title{
+  font-size: 18pt;
+  display: flex;
+  justify-content: center;
+  height: 350rpx;
+}
